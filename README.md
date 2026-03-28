@@ -1,6 +1,6 @@
 # Todo App Backend 🚀
 
-這是一個基於 **Node.js** 與 **Express** 構建的 RESTful API 後端專案，專為代辦事項（Todo List）管理系統設計。
+這是一個基於 **Node.js** 與 **Express** 構建的 RESTful API 後端專案，專為代辦事項（Todo App）管理系統設計。
 
 ## 🛠️ 技術棧 (Tech Stack)
 
